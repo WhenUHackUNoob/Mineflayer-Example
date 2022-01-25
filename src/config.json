@@ -1,0 +1,7 @@
+{
+    "serverIP": "SERVER IP",
+    "email": "YOUR_EMAIL_HERE@EXAMPLE.COM",
+    "password": "ACCOUNT PASSWORD",
+    "version": "1.18.1",
+    "auth": "mojang"
+}

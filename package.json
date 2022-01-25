@@ -1,0 +1,23 @@
+{
+  "name": "mineflayer-example",
+  "version": "1.0.0",
+  "description": "A nice and simple Mineflayer bot to get you started with mineflayer Development.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhenUHackUNoob/Mineflayer-Example.git"
+  },
+  "author": "WhenUHackUNoob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhenUHackUNoob/Mineflayer-Example/issues"
+  },
+  "homepage": "https://github.com/WhenUHackUNoob/Mineflayer-Example#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mineflayer": "^3.15.0"
+  }
+}
